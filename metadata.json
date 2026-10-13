@@ -1,0 +1,6 @@
+{
+  "name": "Car Service Management and Analysis Using MongoDB",
+  "description": "Comprehensive local car service workshop management and analytics dashboard featuring 7 MongoDB collections, real aggregation pipelines, predictive service alerts, inventory tracking, mechanic performance, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
